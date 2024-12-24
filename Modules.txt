@@ -1,0 +1,18 @@
+Modules
+1) data collection
+2) data preprocessing
+3) EDA( exploratory data analysis)
+4) model implementation
+5) prediction
+topic : employeepromotion
+
+data train alignment 
+ cell 1)data description - where 
+ cell 2)import libraries
+ cell 3)load dataset- 
+ cell 4)data preprocessing- shape, null value, duplicate, head, tail, info ,describe, correlation relationship- heat map
+ cell 5)data visualization- mat plot , sea born, graphics plot
+ cell 6) label encoding- model implementation(data slipping , label encoding, algorithms- apply required algorithms 
+ cell 7) model implementation
+ cell 8) prediction-analyzing  accuracy getting output  
+ 
